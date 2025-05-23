@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Badhon Sheikh</Logo>
+        <Logo>Ajgor Mahmud</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Badhon Sheikh. All rights reserved.
+          &copy; 2025 Ajgor Mahmud. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

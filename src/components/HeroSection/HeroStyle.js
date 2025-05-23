@@ -130,7 +130,7 @@ export const Title = styled.div`
 
 export const TextLoop = styled.div`
   font-weight: 600;
-  font-size: 24px;
+  font-size: 26px;
   display: flex;
   gap: 12px;
   color: ${({ theme }) => theme.text_primary};
@@ -159,11 +159,15 @@ export const SubTitle = styled.div`
 
   @media (max-width: 960px) {
     text-align: center;
+    text-align: justify;
+    padding: 0px 32px
   }
 
   @media (max-width: 640px) {
     font-size: 16px;
     line-height: 32px;
+    text-align: justify;
+    padding: 0px 32px
   }
 `;
 
