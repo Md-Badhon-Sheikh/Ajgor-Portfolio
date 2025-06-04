@@ -240,24 +240,25 @@ export const experiences = [
 ];
 
 export const education = [
-  // {
-  //   id: 0,
-  //   img: "https://mir-s3-cdn-cf.behance.net/projects/404/e8f71f216863121.Y3JvcCwxMDgwLDg0NCwwLDExNw.png",
-  //   school: "IsDB-BISEW",
-  //   date: "September 2024 - March 2025",
-  //   grade: "88.2%",
-  //   desc: "I am currently pursuing a Web Application Development using Laravel & React at IsDB-BISEW, Agargaon Dhaka. I have completed 6 month course. I have taken courses in Computer fundamental, Html, CSS, Bootstrap, Tailwind css, JavaScript, Database-driven web application using PHP, MySQL, JQuery, React, Laravel",
-  //   degree: "Web Application Development using Laravel & React",
-  // },
-  // {
-  //   id: 1,
-  //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4NsXUTmaFZ34No31ftwDrv6YmKFlzhEipQ&s",
-  //   school: "Habiganj Polytechnic Institute, Gopaya Habiganj",
-  //   date: "Aug 2017 - Sep 2021",
-  //   grade: "3.76 CGPA",
-  //   desc: "I Completed Diploma in Engineering, in Computer Science and Technology at Habiganj Polytechnic Institute, Gopaya, Habiganj. I have completed 8 semesters and have a CGPA of 3.76. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-  //   degree: "Diploma in Engineering, Sub: Computer Science Technology",
-  // },
+  {
+    id: 0,
+    img: "https://i.ibb.co/fV0t5HqS/images-3.png",
+    school: "Govt. Rajendra College, Faridpur",
+    Session: "2020-21",
+    date: "2020 - Running",
+    grade: "88.2%",
+    desc: "Currently pursuing a Bachelor of Science (Honours) degree in Zoology under the session 2020–21 at Govt. Rajendra College, Faridpur. The program focuses on the study of animal biology, ecology, physiology, and taxonomy, providing a strong foundation in life sciences",
+    degree: "BSc (Hons.) in Zoology",
+  },
+  {
+    id: 1,
+    img: "https://i.ibb.co/CKDnq5sj/Govt-Kazi-Mahabubulla-Km-College-logo.jpg",
+    school: "Govt. Kazi Mahbubullah (K.M) Colleg",
+    date: "2017 - 2020",
+    grade: "4.83 GPA",
+    desc: "Successfully completed Higher Secondary education with a focus on Science, demonstrating strong academic performance and a solid foundation in core scientific subjects. Achieved a GPA of 4.83 out of 5.00, reflecting consistent dedication, analytical ability, and a commitment to excellence during the academic session at a reputed government institution.",
+    degree: "Science",
+  },
 
   {
     id: 2,
@@ -265,7 +266,7 @@ export const education = [
     school: "Rover Polly High School, Gazipur City",
     date: "Apr 2016 - Apr 2017",
     grade: "4.64 GPA",
-    desc: "I completed my class 10 education at Rover Polly High School, Gazipur, where I studied Science.",
+    desc: "Completed SSC in the Science group from Rover Polly High School, Gazipur City in the 2016–17 session, securing a GPA of 4.64 out of 5.00. This academic phase provided a strong foundation in science and motivated me to pursue further studies in the field.",
     degree: "(X), Science",
   },
 ];
