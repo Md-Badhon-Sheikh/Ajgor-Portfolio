@@ -22,15 +22,15 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>Facebook Ads</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+            <ToggleButton value="web app" onClick={() => setToggle('web app')}>Facebook Ads</ToggleButton>
           }
           <Divider />
           {toggle === 'ui design' ?
-            <ToggleButton active value="ui design" onClick={() => setToggle('ui design')}>UI DESIGN</ToggleButton>
+            <ToggleButton active value="ui design" onClick={() => setToggle('ui design')}>Google Ads</ToggleButton>
             :
-            <ToggleButton value="ui design" onClick={() => setToggle('ui design')}>UI DESIGN</ToggleButton>
+            <ToggleButton value="ui design" onClick={() => setToggle('ui design')}>Google Ads</ToggleButton>
           }
           <Divider />
           {/* {toggle === 'machine learning' ?

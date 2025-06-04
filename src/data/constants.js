@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "I’m a passionate and goal-oriented digital marketing professional with a strong background in strategy development, campaign management, and brand building. As the General Manager of Stair Touch Education Consultancy and Travels, I help students navigate their study abroad journey—especially in Russia.",
   github: "https://www.facebook.com/ajgormahmmud01",
-  resume:
-    "#",
+  resume: "#",
   linkedin: "https://www.linkedin.com/in/ajgor-mahmud/",
   twitter: "https://x.com/AjgorMahmud",
   insta: "https://www.instagram.com/ajgor_mahmud/",
@@ -33,14 +32,15 @@ export const skills = [
       },
       {
         name: "Email Marketing",
-        image:"https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png",
+        image:
+          "https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png",
       },
       {
         name: "Content Creation",
         image:
           "https://sites.bc.edu/devtech/wp-content/uploads/sites/181/2022/03/Content-Creation-1015x1024.png",
       },
-   
+
       {
         name: "Copywriting",
         image:
@@ -51,7 +51,6 @@ export const skills = [
         image:
           "https://static.vecteezy.com/system/resources/previews/002/621/554/non_2x/digital-marketing-funnel-optimization-line-and-fill-free-vector.jpg",
       },
-      
     ],
   },
   {
@@ -63,11 +62,13 @@ export const skills = [
       },
       {
         name: "Keyword Research",
-        image:"https://img.freepik.com/premium-vector/research-with-circle-logo-design-template_145155-2225.jpg",
+        image:
+          "https://img.freepik.com/premium-vector/research-with-circle-logo-design-template_145155-2225.jpg",
       },
       {
         name: "Google Ads & Pay-Per-Click (PPC) Campaigns",
-        image: "https://www.marketingdonut.co.uk/sites/default/files/setting-up-pay-per-click-campaign_1294394836.jpg",
+        image:
+          "https://www.marketingdonut.co.uk/sites/default/files/setting-up-pay-per-click-campaign_1294394836.jpg",
       },
       {
         name: "YouTube SEO & Video Marketing",
@@ -79,7 +80,6 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISU7PP4sqLGYFfSUpfnyrZ1r1uSt8J7P3ig&s",
       },
-     
     ],
   },
   // {
@@ -173,6 +173,27 @@ export const experiences = [
       // "JavaScript",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  },
+    {
+    id: 0,
+    img: "https://i.ibb.co/1ff6fy3N/Screenshot-20.png",
+    role: "General Manager",
+    company: "Stair Touch",
+    date: "Aug 2023 - Present",
+    desc: "Working on Digital Marketing, Facebook Marketing, Education Consultant",
+    skills: [
+      "Digital Marketing",
+      "Facebook Marketing",
+      "Email Marketing",
+      "SEO",
+      "Google Ads",
+      "Video Marketing",
+      "YouTube SEO",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Adobe Photoshop",
+    ],
+    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   // {
   //   id: 1,
@@ -273,80 +294,132 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Department Store",
-    date: "January 2025 - January 2025",
+    id: 0,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
     description:
-      "Our POS (Point of Sale) Management System is a powerful, web-based solution designed to help businesses efficiently manage sales, inventory, and customer transactions. Whether you run a retail store, restaurant, or supermarket, this system streamlines operations, reduces manual work, and enhances customer service.",
-    image:
-      "https://i.ibb.co.com/Q7h5XZFY/Capture.png",
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
     tags: [
-      "Bootstrap",
-      "PHP",
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
     ],
     category: "web application",
     github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
     // webapp: "https://trackify.duckdns.org",
   },
   {
-    id: 0,
-    title: "E-Commerce",
-    date: "February 2025 - March 2025",
+    id: 1,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
     description:
-      "Our E-Commerce Website is a modern, scalable, and user-friendly online shopping platform designed to provide a seamless shopping experience for customers. It supports a variety of product categories, secure payments, and an intuitive admin panel for effortless management. Whether you're launching a small business or scaling an enterprise, this system is built to grow with you.",
-    image:
-      "https://i.ibb.co.com/HLq8tgWF/ecommerce.png",
-    tags: ["Tailwind css", "Daisy Ui", "React Js", "Swiper js"],
-    category: "web app",
-    github: "https://github.com/Md-Badhon-Sheikh/e-commerce.git",
-    webapp: "https://react-ecommerce10.netlify.app/",
-    member: [
-      // {
-      //   name: "Badhon Sheikh",
-      //   // img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-      //   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-      //   github: "https://github.com/rishavchanda/",
-      // },
-      // {
-      //   name: "Upasana Chaudhuri",
-      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-      //   github: "https://github.com/upasana0710",
-      // },
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
+    tags: [
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
     ],
+    category: "web application",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
+    // webapp: "https://trackify.duckdns.org",
   },
   {
-    id: 1,
-    title: "Bay",
-    date: "November 2024  ",
+     id: 2,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
     description:
-      "Designed  the Tailwind css project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://i.ibb.co.com/JR2CTL7T/Capture.png",
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
     tags: [
-      "JavaScript",
-      "Tailwind Css",
-      "Css",
-      "Html",
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
     ],
-    category: "ui design",
-    github: "https://github.com/Md-Badhon-Sheikh/amar-bay.git",
-    webapp: "https://md-badhon-sheikh.github.io/amar-bay/",
+    category: "web application",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
+    // webapp: "https://trackify.duckdns.org",
   },
- 
-  // {
-  //   id: 8,
-  //   title: "Face Recognition",
-  //   date: "Jan 2021",
-  //   description:
-  //     "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  // },
+
+  {
+    id: 3,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
+    description:
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
+    tags: [
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
+    ],
+    category: "web application",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
+    // webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 4,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
+    description:
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
+    tags: [
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
+    ],
+    category: "web application",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
+    // webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 5,
+    title: "Stair Touch –Finding Clients",
+    date: "January 2025 - March 2025",
+    description:
+      "The “Stair Touch – Finding Clients” campaign was designed to generate direct engagement with young audiences in Bangladesh who are interested in studying abroad. The primary aim was to initiate meaningful one-on-one conversations through Facebook Messenger, building a direct line of communication with potential clients.",
+    image: "https://i.ibb.co/9HRLc1dc/1-1.png",
+    tags: [
+      "Tools Used: Facebook Ads Manager, Canva",
+      "Ad Type: Engagement – Get Message",
+      "Budget: $100",
+      "Reach: 24,182",
+      "Impressions: 78,840",
+      "Cost Per Result:  $0.12",
+      "Messaging Conversation Started:  729",
+      "Amount Spend : $89.27",
+    ],
+    category: "web application",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
+    // webapp: "https://trackify.duckdns.org",
+  },
 ];
 
 export const TimeLineData = [
