@@ -4,10 +4,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://badhonweb.netlify.app/)
 ## Some Images:
 <img width="450px;" src="https://i.ibb.co/hJWTpJTf/Screenshot-10.png"/>
-<img width="450px;" src="https://i.ibb.co.com/NdbHrcY1/Capture2.png"/>
-<img width="450px;" src="https://i.ibb.co.com/zWZ6N9z1/Capture3.png"/>
-<img width="450px;" src="https://i.ibb.co.com/4RbhqMHh/Capture4.png"/>
-<img width="450px;" src="https://i.ibb.co.com/gM1BwFC2/Capture5.png"/>
+<img width="450px;" src="https://i.ibb.co/gFSNqGvR/Screenshot-37.png"/>
+<img width="450px;" src="https://i.ibb.co/JFzy4b1M/Screenshot-38.png"/>
+<img width="450px;" src="https://i.ibb.co/0pKLS2cb/Screenshot-39.png"/>
+<img width="450px;" src="https://i.ibb.co/bZtPqFS/Screenshot-40.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
