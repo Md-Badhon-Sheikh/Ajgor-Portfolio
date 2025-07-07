@@ -1,10 +1,10 @@
 // import resume from '../../public/resume/'
 export const Bio = {
-  name: "Ajgor Mahmud",
+  name: "Ajgor Mahmud.",
   roles: [
-    "Digital Marketing Expert",
-    "General Manager at Stair Touch",
-    "Education Consultant",
+    "General Manager at Stair Touch.",
+    "I am a Digital Marketing Expert.",
+    "I am an Education Consultant.",
   ],
   description:
     "I’m a passionate and goal-oriented digital marketing professional with a strong background in strategy development, campaign management, and brand building. As the General Manager of Stair Touch Education Consultancy and Travels, I help students navigate their study abroad journey—especially in Russia.",
