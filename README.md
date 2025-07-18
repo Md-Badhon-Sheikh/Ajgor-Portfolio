@@ -8,6 +8,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://i.ibb.co/JFzy4b1M/Screenshot-38.png"/>
 <img width="450px;" src="https://i.ibb.co/0pKLS2cb/Screenshot-39.png"/>
 <img width="450px;" src="https://i.ibb.co/bZtPqFS/Screenshot-40.png"/>
+<img width="450px;" src="https://i.ibb.co/CK70VN6T/Screenshot-67.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
